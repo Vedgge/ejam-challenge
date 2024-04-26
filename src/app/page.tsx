@@ -8,7 +8,7 @@ import starsCustomer from "../../public/stars-customer.png";
 import verifyImage from "../../public/verify-customer.png";
 import clarifionProduct from "../../public/image-removebg-preview (12) 1.png";
 import satisfactionImage from "../../public/image 6.png";
-import stars from "../../public/stars.png";
+import stars from "../../public/Stars.png";
 import cardsImage from "../../public/cards-image.png";
 import { IoCheckmarkOutline, IoLockClosedOutline } from "react-icons/io5";
 import { FiPercent } from "react-icons/fi";
