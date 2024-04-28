@@ -1,6 +1,6 @@
 # Clarifion Air Ionizer Upsell Page
 
-This project is a web page that recreates a UI/UX design created in [Figma](https://www.figma.com/file/gHf56mhtFr0lXky0poofoQ/ejam---Clarifion-Upsell-[-Client-V-]-(Copy)?type=design&node-id=0-1&mode=design&t=uOnD1Kyo4FjJst1o-0) for the Clarifion Air Ionizer product. The goal is to create a pixel-perfect implementation of the design, following the provided instructions.
+This project is a web page that recreates a UI/UX design created in Figma for the Clarifion Air Ionizer product. The goal is to create a pixel-perfect implementation of the design, following the provided instructions.
 
 ## Table of Contents
 
