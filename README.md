@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Clarifion Air Ionizer Upsell Page
 
-## Getting Started
+This project is a web page that recreates a UI/UX design created in [Figma](https://www.figma.com/file/gHf56mhtFr0lXky0poofoQ/ejam---Clarifion-Upsell-[-Client-V-]-(Copy)?type=design&node-id=0-1&mode=design&t=uOnD1Kyo4FjJst1o-0) for the Clarifion Air Ionizer product. The goal is to create a pixel-perfect implementation of the design, following the provided instructions.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Description](#description)
+- [Technologies Used](#technologies-used)
+- [Challenge Implementation](#challenge-implementation)
+- [Setup and Usage](#setup-and-usage)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Description
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The Clarifion Air Ionizer Upsell Page is a landing page that showcases the Clarifion Air Ionizer product and offers a special discount for purchasing additional units. The page features an attractive layout with product images, customer reviews, and a call-to-action section encouraging users to claim the discount.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Technologies Used
 
-## Learn More
+- **HTML5**: The structure and content of the page are built using HTML5.
+- **Tailwind CSS**: Tailwind CSS is a utility-first CSS framework used for styling the page. It provides a set of low-level utility classes that can be composed to build complex components and layouts.
+- **React & Next.js**: React is a JavaScript library for building user interfaces, and Next.js is a React framework for server-side rendering, static site generation, and more. The project is built using React and Next.js for improved performance and developer experience.
+- **React Icons**: React Icons is a library that provides a set of popular icons as React components, which are used throughout the project for various icons and symbols.
 
-To learn more about Next.js, take a look at the following resources:
+## Challenge Implementation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The challenge for this project was to recreate the provided Figma design as accurately as possible while ensuring a responsive and functional implementation. To achieve this, the following steps were taken:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. **Design Analysis**: The Figma design was thoroughly analyzed to understand the layout, typography, color scheme, and overall aesthetic.
+2. **Component Breakdown**: The design was broken down into individual components and sections, making it easier to manage and develop.
+3. **Responsive Approach**: A mobile-first approach was adopted, ensuring the page was optimized for smaller screens before scaling up to larger displays.
+4. **Tailwind CSS Integration**: Tailwind CSS was integrated into the project to streamline the styling process and leverage its utility classes for efficient CSS development.
+5. **Pixel-Perfect Implementation**: Careful attention was paid to ensuring that the final implementation matched the Figma design as closely as possible, achieving a pixel-perfect result.
 
-## Deploy on Vercel
+## Setup and Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+To view the Clarifion Air Ionizer Upsell Page, you can visit the following public URL: [Ejam Challenge](https://facundo-ejam-challenge.vercel.app/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Alternatively, you can clone the repository and run the project locally:
+
+1. Clone the repository: `git clone https://github.com/Vedgge/ejam-challenge.git`
+2. Navigate to the project directory: `cd ejam-challenge`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and visit `http://localhost:3000` to see the page.
+
+Feel free to explore the page and test the responsiveness across different devices and screen sizes.
